@@ -7,7 +7,7 @@ franphosisDev</a></h1>
 </a>
 
 
-- 🌱 I’m currently Working on my Portfolio 
+- 🌱 I’m currently Working on my Portfolio and...
 
 - 🤝 I’m available for freelancing.
 
