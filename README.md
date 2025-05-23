@@ -6,10 +6,8 @@ franphosisDev</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NjMDhheGszdHp6M2tzdWh3a2pmNnRkdWs5YTNvcDZ3cnAzaHpmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h7FZESJ1Ter5bGhUDG/giphy.gif">
 </a>
 
-- 🌌 I am Franphosis and I'm 16 years old
-- 🛠️ I’m currently Working on my Portfolio and...
+- 🌌 I'm Franphosis and I'm 16 years old, currenly learning React and Tailwind
 - 🤝 I’m available for freelancing.
-- 🌱 I’m currently learning JavaScript && React
 - 📫 **franphosis@gmail.com**
 <br><br>
 
