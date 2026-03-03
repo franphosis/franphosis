@@ -3,7 +3,7 @@ franphosisDev</a></h1>
 <h3 align="center">A guy from Argentina</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NjMDhheGszdHp6M2tzdWh3a2pmNnRkdWs5YTNvcDZ3cnAzaHpmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h7FZESJ1Ter5bGhUDG/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZlYzZqd2d6dHBsMjE2ZjFremo5bGM5cXFmNWs2cTh2dDd5YzdpdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BK5q771QamPcs/giphy.gif">
 </a>
 
 - 🌌 Welcome, I'm franphosis and I'm and 17 years old, trying to improve in this world.
@@ -11,9 +11,7 @@ franphosisDev</a></h1>
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZlYzZqd2d6dHBsMjE2ZjFremo5bGM5cXFmNWs2cTh2dDd5YzdpdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BK5q771QamPcs/giphy.gif" width ="25"><b> Skills</b>
+## <b> Skills</b>
 <br>
 <p align="center">   
     
